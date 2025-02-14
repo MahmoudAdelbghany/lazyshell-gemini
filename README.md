@@ -69,7 +69,7 @@ curl -o ~/.lazyshell-gemini.zsh https://raw.githubusercontent.com/MahmoudAdelbgh
 ## Configure your shell
 Add the following lines to your `.zshrc`:
 ```zsh
-export GEMINI_API_KEY=<your_api_key>
+export GEMINI_API_KEY="your_api_key"
 [ -f ~/.lazyshell-gemini.zsh  ] && source ~/.lazyshell-gemini.zsh 
 
 ```
