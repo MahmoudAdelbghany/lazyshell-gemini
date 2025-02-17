@@ -4,7 +4,7 @@ LazyShell-Gemini is a fork of the archived [lazyshell](https://github.com/not-po
 
 It also can use Gemini to explain what the current command does. Invoke the explanation with the ALT+E hotkey.
 
-![Screenshot](https://raw.githubusercontent.com/not-poma/lazyshell/master/screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/MahmoudAdelbghany/lazyshell-gemini/master/screenshot.gif)
 
 LazyShell-Gemini is in alpha stage and may contain bugs. Currently only Zsh is supported. This fork was created because the Gemini API offers a decent free tier, making it an attractive alternative to other providers.
 
